@@ -3,7 +3,7 @@ import { Zenon } from "znn-ts-sdk";
 import { netId } from "znn-ts-sdk/dist/lib/src/global"
 
 const initialState = {
-  nodeUrl: Zenon.getSingleton().defaultServerUrl,
+  nodeUrl: ws://public.deeZNNodez.com:35998,
   chainIdentifier: netId
 }
 
